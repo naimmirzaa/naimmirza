@@ -1,0 +1,20 @@
+{
+    "name": "naim-mirza-portfolio",
+    "version": "1.0.0",
+    "description": "Professional portfolio website for Naim Mirza",
+    "main": "index.html",
+    "scripts": {
+      "start": "serve",
+      "build": "echo 'No build step required for static site'"
+    },
+    "keywords": [
+      "portfolio",
+      "web developer",
+      "naim mirza"
+    ],
+    "author": "Naim Mirza",
+    "license": "MIT",
+    "dependencies": {
+      "serve": "^14.2.1"
+    }
+  }
