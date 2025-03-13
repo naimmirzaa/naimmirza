@@ -1,1 +1,1 @@
-# naimmirzaa.github.io
+# naimmirzaa.co.in
